@@ -1,0 +1,3 @@
+Um novo arquivo.
+
+Pode ter varias linhas
